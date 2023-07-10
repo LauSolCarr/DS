@@ -1,7 +1,3 @@
-0,Male,Third,CSE/IT,Normal Schooling
-1,Female,Second,CSIT,Schooling with Tuitions
-2,Male,Second,CSIT,Normal Schooling
-3,Male,Second,CSIT,Normal Schooling
-4,Male,Second,CSIT,Normal Schooling
-5,Male,Second,CSIT,Normal Schooling
-6,Female,Second,CSIT,Schooling with Tuitions
+0,1,2
+1,2,3
+2,3,4
